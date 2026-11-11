@@ -1,0 +1,20 @@
+Strategy,Model,Mean Probability Change,Maximum Probability Change,Prediction Flip Rate
+Original,Logistic Regression,0.0,0.0,0.0
+Original,KNN,0.0,0.0,0.0
+Original,Naive Bayes,0.0,0.0,0.0
+Original,SVM,0.0,0.0,0.0
+Original,Decision Tree,0.0,0.0,0.0
+Original,Random Forest,3.4694469519536144e-19,1.1102230246251565e-16,0.0
+Original,XGBoost,0.0,0.0,0.0
+Class Weight,Logistic Regression,0.0,0.0,0.0
+Class Weight,SVM,0.0,0.0,0.0
+Class Weight,Decision Tree,0.0,0.0,0.0
+Class Weight,Random Forest,1.8735013540549518e-18,2.220446049250313e-16,0.0
+Class Weight,XGBoost,0.0,0.0,0.0
+SMOTENC,Logistic Regression,0.0,0.0,0.0
+SMOTENC,KNN,0.0,0.0,0.0
+SMOTENC,Naive Bayes,0.0,0.0,0.0
+SMOTENC,SVM,0.0,0.0,0.0
+SMOTENC,Decision Tree,0.0,0.0,0.0
+SMOTENC,Random Forest,5.955883934187038e-19,1.1102230246251565e-16,0.0
+SMOTENC,XGBoost,0.0,0.0,0.0

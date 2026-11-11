@@ -1,0 +1,2 @@
+Strategy,Model,Accuracy,Precision,Recall,F1,ROC_AUC
+Fairlearn Equalized Odds,Random Forest,0.791875,0.5319148936170213,0.4943502824858757,0.5124450951683748,0.685377388433949
