@@ -1,0 +1,8 @@
+{
+    "model_name": "Random Forest",
+    "model_file": "fairxai_random_forest.pkl",
+    "threshold": 0.5057,
+    "positive_class": "Default",
+    "negative_class": "Non-default",
+    "dataset": "Taiwan Credit Card Default"
+}
